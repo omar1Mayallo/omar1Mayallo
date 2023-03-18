@@ -1,11 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar1mayallo&label=Profile%20views&color=0e75b6&style=flat" alt="omar1mayallo" /> </p>
-<div align="center">
-  <img height="200" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"  />
-</div>
 
-###
+## 👋 Hello
 
-<h3 align="center">Hello 😁 I'm Omar, a passionate Fullstack Web Developer from Egypt .. currently, I am interested in MERN Stack and its technologies, I always search for clean, reusable, and best-practice ways to write the code</h3>
+<p>I'm a self-taught fullstack developer with a passion for web technologies .. currently, I am interested in MERN Stack and its technologies, I always search for clean, reusable, and best-practice ways to write the code</p>
 
 ###
 
@@ -19,31 +16,97 @@
   </a>
 </div>
 
-###
+## 🔧 Languages & Tools
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
-  <img src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="40" width="52"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" width="52" alt="materialui logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" width="52" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"  />
-  
-</div>
-
-###
-
-###
+<table align="center">
+    <tr>
+      <td align="center" height="108" width="108">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" width="48" alt="html5 logo"  />
+        <br />
+        HTML
+      </td>
+      <td align="center" height="108" width="108">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" width="48" alt="css3 logo"  />
+        <br />
+        CSS
+      </td>
+      <td align="center" height="108" width="108">
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" width="48" alt="javascript logo"  />
+        <br />
+        Javascript
+      </td>
+      <td align="center" height="108" width="108">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" width="48" alt="typescript logo"  />
+        <br />
+        Typescript
+      </td>
+      <td align="center" height="108" width="108">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="48" width="48" alt="sass logo"  />
+        <br />
+        Sass
+      </td>
+      <td align="center" height="108" width="108">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="48" width="48" alt="bootstrap logo"  />
+        <br />
+        Bootstrap
+      </td>
+      <td align="center" height="108" width="108">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" width="48" alt="react logo"  />
+        <br />
+        React
+      </td>
+       <td align="center" height="108" width="108">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="48" width="48" alt="redux logo"  />
+        <br />
+        Redux
+      </td>
+      <td align="center" height="108" width="108">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="48" width="48" alt="materialui logo"  />
+        <br />
+        MaterialUI
+      </td>
+      <td align="center" height="108" width="108">
+        <img src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="48" width="48"/>
+        <br />
+        Styled components
+      </td>
+    </tr>
+    <tr>
+      <td align="center" height="108" width="108">
+        <img src="https://github.com/get-icon/geticon/blob/master/icons/nodejs-icon.svg" title="Node.js" alt="Node.js" width="48" height="48"/>
+        <br />
+        Node.js
+      </td>
+      <td align="center" height="108" width="108">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="48" height="48"/>
+        <br />
+        Express
+      </td>
+      <td align="center" height="108" width="108">
+        <img src="https://github.com/get-icon/geticon/blob/master/icons/mongodb-icon.svg" title="MongoDB" alt="MongoDB" width="48" height="48"/>
+        <br />
+        MongoDB
+      </td>
+      <td align="center" height="108" width="108">
+        <img src="https://github.com/get-icon/geticon/blob/master/icons/es6.svg" title="Python" alt="Python" width="48" height="48"/>
+        <br />
+        Python
+      </td>
+    </tr>
+    <tr>
+      <td align="center" height="108" width="108">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" width="48" alt="github logo"  />
+        <br />
+        Github
+      </td>
+      <td align="center" height="108" width="108">
+        <img src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" title="Git" alt="Git" width="48" height="48"/>
+        <br />
+        Git
+      </td>
+    </tr>
+</table>
+ 
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=omar1mayallo&show_icons=true&locale=en&layout=compact&theme=dracula" alt="omar1mayallo" /></p>
 
