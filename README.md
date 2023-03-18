@@ -36,6 +36,11 @@
         Javascript
       </td>
       <td align="center" height="108" width="108">
+          <img src="https://github.com/get-icon/geticon/blob/master/icons/es6.svg" title="Python" alt="Python" width="48" height="48"/>
+          <br />
+          ES6
+      </td>
+      <td align="center" height="108" width="108">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" width="48" alt="typescript logo"  />
         <br />
         Typescript
@@ -51,27 +56,27 @@
         Bootstrap
       </td>
       <td align="center" height="108" width="108">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" width="48" alt="react logo"  />
-        <br />
-        React
-      </td>
-       <td align="center" height="108" width="108">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="48" width="48" alt="redux logo"  />
-        <br />
-        Redux
-      </td>
-      <td align="center" height="108" width="108">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="48" width="48" alt="materialui logo"  />
         <br />
         MaterialUI
       </td>
-      <td align="center" height="108" width="108">
+       <td align="center" height="108" width="108">
         <img src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="48" width="48"/>
         <br />
-        Styled components
+        Styled comp
       </td>
     </tr>
     <tr>
+      <td align="center" height="108" width="108">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" width="48" alt="react logo"  />
+        <br />
+        React
+      </td>
+      <td align="center" height="108" width="108">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="48" width="48" alt="redux logo"  />
+        <br />
+        Redux
+      </td>
       <td align="center" height="108" width="108">
         <img src="https://github.com/get-icon/geticon/blob/master/icons/nodejs-icon.svg" title="Node.js" alt="Node.js" width="48" height="48"/>
         <br />
@@ -88,13 +93,6 @@
         MongoDB
       </td>
       <td align="center" height="108" width="108">
-        <img src="https://github.com/get-icon/geticon/blob/master/icons/es6.svg" title="Python" alt="Python" width="48" height="48"/>
-        <br />
-        Python
-      </td>
-    </tr>
-    <tr>
-      <td align="center" height="108" width="108">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" width="48" alt="github logo"  />
         <br />
         Github
@@ -106,7 +104,9 @@
       </td>
     </tr>
 </table>
- 
+
+## 📈 Stats
+
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=omar1mayallo&show_icons=true&locale=en&layout=compact&theme=dracula" alt="omar1mayallo" /></p>
 
