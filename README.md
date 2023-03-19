@@ -7,8 +7,12 @@
 ###
 
 <div align="center">
+  <a href="https://www.facebook.com/profile.php?id=100086990208999" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" alt="facebook logo"  />
+  </a>
+  
   <a href="https://www.youtube.com/channel/UCaqPxDHDdjprqv8I9shZMig" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35"    alt="youtube logo"  />
   </a>
   
   <a href="https://www.linkedin.com/in/omar-mayallo-a5546a243/" target="_blank">
@@ -56,17 +60,22 @@
         Bootstrap
       </td>
       <td align="center" height="108" width="108">
+        <img src="https://avatars.githubusercontent.com/u/17580417?s=280&v=4" height="48" width="48" alt="bootstrap logo"  />
+        <br />
+        Reactstrap
+      </td>
+      <td align="center" height="108" width="108">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="48" width="48" alt="materialui logo"  />
         <br />
         MaterialUI
       </td>
-       <td align="center" height="108" width="108">
-        <img src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="48" width="48"/>
-        <br />
-        Styled comp
-      </td>
     </tr>
     <tr>
+      <td align="center" height="108" width="108">
+        <img src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="48" width="48"/>
+        <br />
+        Styled componants
+      </td>
       <td align="center" height="108" width="108">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" width="48" alt="react logo"  />
         <br />
