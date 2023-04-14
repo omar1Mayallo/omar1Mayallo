@@ -69,17 +69,27 @@
         <br />
         MaterialUI
       </td>
-    </tr>
-    <tr>
+      <td align="center" height="108" width="108">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" height="48"      width="48" alt="tailwindcss logo"  />
+        <br />
+        TailwindCss
+      </td>
       <td align="center" height="108" width="108">
         <img src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="48" width="48"/>
         <br />
         Styled componants
       </td>
+    </tr>
+    <tr>
       <td align="center" height="108" width="108">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" width="48" alt="react logo"  />
         <br />
         React
+      </td>
+      <td align="center" height="108" width="108">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
+        <br />
+        Next
       </td>
       <td align="center" height="108" width="108">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="48" width="48" alt="redux logo"  />
@@ -89,7 +99,7 @@
       <td align="center" height="108" width="108">
         <img src="https://github.com/get-icon/geticon/blob/master/icons/nodejs-icon.svg" title="Node.js" alt="Node.js" width="48" height="48"/>
         <br />
-        Node.js
+        Node
       </td>
       <td align="center" height="108" width="108">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="48" height="48"/>
@@ -100,6 +110,11 @@
         <img src="https://github.com/get-icon/geticon/blob/master/icons/mongodb-icon.svg" title="MongoDB" alt="MongoDB" width="48" height="48"/>
         <br />
         MongoDB
+      </td>
+      <td align="center" height="108" width="108">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" width="52" alt="socketio logo"  />
+        <br />
+        Socket.Io
       </td>
       <td align="center" height="108" width="108">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" width="48" alt="github logo"  />
