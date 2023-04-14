@@ -69,18 +69,18 @@
         <br />
         MaterialUI
       </td>
-      <td align="center" height="108" width="108">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" height="48"      width="48" alt="tailwindcss logo"  />
+       <td align="center" height="108" width="108">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" height="48"              width="48" alt="tailwindcss logo"  />
         <br />
         TailwindCss
       </td>
+    </tr>
+    <tr>
       <td align="center" height="108" width="108">
         <img src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="48" width="48"/>
         <br />
         Styled componants
       </td>
-    </tr>
-    <tr>
       <td align="center" height="108" width="108">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" width="48" alt="react logo"  />
         <br />
