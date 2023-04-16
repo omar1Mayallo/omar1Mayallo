@@ -60,22 +60,22 @@
         Bootstrap
       </td>
       <td align="center" height="108" width="108">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" height="48"              width="48" alt="tailwindcss logo"  />
+        <br />
+        TailwindCss
+      </td>
+      <td align="center" height="108" width="108">
         <img src="https://avatars.githubusercontent.com/u/17580417?s=280&v=4" height="48" width="48" alt="bootstrap logo"  />
         <br />
         Reactstrap
       </td>
+    </tr>
+    <tr>
       <td align="center" height="108" width="108">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="48" width="48" alt="materialui logo"  />
         <br />
         MaterialUI
       </td>
-       <td align="center" height="108" width="108">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" height="48"              width="48" alt="tailwindcss logo"  />
-        <br />
-        TailwindCss
-      </td>
-    </tr>
-    <tr>
       <td align="center" height="108" width="108">
         <img src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="48" width="48"/>
         <br />
@@ -116,17 +116,19 @@
         <br />
         Socket.Io
       </td>
-      <td align="center" height="108" width="108">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" width="48" alt="github logo"  />
-        <br />
-        Github
-      </td>
-      <td align="center" height="108" width="108">
-        <img src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" title="Git" alt="Git" width="48" height="48"/>
-        <br />
-        Git
-      </td>
     </tr>
+    <tr>
+      <td align="center" height="108" width="108">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" width="48" alt="github logo"  />
+          <br />
+          Github
+        </td>
+        <td align="center" height="108" width="108">
+          <img src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" title="Git" alt="Git" width="48" height="48"/>
+          <br />
+          Git
+        </td>
+      </tr>
 </table>
 
 ## 📈 Stats
