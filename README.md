@@ -2,7 +2,7 @@
 
 ## 👋 Hello
 
-<p>I'm a self-taught fullstack developer with a passion for web technologies .. currently, I am interested in MERN Stack and its technologies, I always search for clean, reusable, and best-practice ways to write the code</p>
+<p>Passionate Software Engineer from Egypt interested in expanding my knowledge in Web Development by using new tech, architectures and best practices.</p>
 
 ###
 
