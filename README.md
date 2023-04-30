@@ -64,13 +64,13 @@
         <br />
         TailwindCss
       </td>
+    </tr>
+    <tr>
       <td align="center" height="108" width="108">
         <img src="https://avatars.githubusercontent.com/u/17580417?s=280&v=4" height="48" width="48" alt="bootstrap logo"  />
         <br />
         Reactstrap
       </td>
-    </tr>
-    <tr>
       <td align="center" height="108" width="108">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="48" width="48" alt="materialui logo"  />
         <br />
@@ -106,6 +106,8 @@
         <br />
         Express
       </td>
+    </tr>
+    <tr>
       <td align="center" height="108" width="108">
         <img src="https://github.com/get-icon/geticon/blob/master/icons/mongodb-icon.svg" title="MongoDB" alt="MongoDB" width="48" height="48"/>
         <br />
@@ -116,8 +118,6 @@
         <br />
         Socket.Io
       </td>
-    </tr>
-    <tr>
       <td align="center" height="108" width="108">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" width="48" alt="github logo"  />
           <br />
