@@ -119,14 +119,19 @@
         Socket.Io
       </td>
       <td align="center" height="108" width="108">
+          <img src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" title="Git" alt="Git" width="48" height="48"/>
+          <br />
+          Git
+        </td>
+      <td align="center" height="108" width="108">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" width="48" alt="github logo"  />
           <br />
           Github
         </td>
-        <td align="center" height="108" width="108">
-          <img src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" title="Git" alt="Git" width="48" height="48"/>
+       <td align="center" height="108" width="108">
+          <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" title="Git" alt="Git" width="48" height="48"/>
           <br />
-          Git
+          Postman
         </td>
       </tr>
 </table>
