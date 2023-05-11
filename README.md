@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omar1mayallo&label=Profile%20views&color=0e75b6&style=flat" alt="omar1mayallo" /> </p>
-
 ## 👋 Hello
 
 <p>Passionate Software Engineer from Egypt interested in expanding my knowledge in Web Development by using new tech, architectures and best practices.</p>
@@ -142,5 +140,7 @@
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=omar1mayallo&show_icons=true&locale=en&layout=compact&theme=dracula" alt="omar1mayallo" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omar1mayallo&show_icons=true&locale=en&theme=dracula" alt="omar1mayallo" /></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=omar1mayallo&label=Profile%20views&color=0e75b6&style=flat" alt="omar1mayallo" /> </p>
 
 
