@@ -58,7 +58,7 @@
         Bootstrap
       </td>
       <td align="center" height="108" width="108">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" height="48"              width="48" alt="tailwindcss logo"  />
+        <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" height="48" width="48" alt="tailwindcss logo"  />
         <br />
         TailwindCss
       </td>
@@ -106,17 +106,27 @@
       </td>
     </tr>
     <tr>
-      <td align="center" height="108" width="108">
+       <td align="center" height="108" width="108">
         <img src="https://github.com/get-icon/geticon/blob/master/icons/mongodb-icon.svg" title="MongoDB" alt="MongoDB" width="48" height="48"/>
         <br />
         MongoDB
       </td>
-      <td align="center" height="108" width="108">
+       <td align="center" height="108" width="108">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" width="52" alt="socketio logo"  />
         <br />
         Socket.Io
       </td>
       <td align="center" height="108" width="108">
+        <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" height="48" width="48" alt="REST logo"  />
+        <br />
+        REST
+      </td>
+      <td align="center" height="108" width="108">
+        <img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" height="48" width="48" alt="jest logo"  />
+        <br />
+        Jest
+      </td>
+       <td align="center" height="108" width="108">
           <img src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" title="Git" alt="Git" width="48" height="48"/>
           <br />
           Git
@@ -126,6 +136,11 @@
           <br />
           Github
         </td>
+     <td align="center" height="108" width="108">
+        <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="48" width="48" alt="VsCode logo"  />
+        <br />
+        VsCode
+      </td>
        <td align="center" height="108" width="108">
           <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" title="Git" alt="Git" width="48" height="48"/>
           <br />
