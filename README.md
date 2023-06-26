@@ -18,7 +18,7 @@
   </a>
 </div>
 
-## 🔧 Languages & Tools
+## 🔧 Techs
 
 <table align="center">
     <tr>
