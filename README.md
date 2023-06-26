@@ -1,6 +1,6 @@
-## 👋 Hello
+## 👨‍⚖️ About Me
 
-<p>Passionate Software Engineer from Egypt interested in expanding my knowledge in Web Development by using new tech, architectures and best practices.</p>
+<p>👋 Hello! I'm Omar, a passionate software engineer based in Egypt. I have a strong interest in web development and continuously strive to expand my knowledge and skills in this field. I'm always eager to explore new technologies, architectures, and best practices to deliver high-quality solutions.</p>
 
 ###
 
