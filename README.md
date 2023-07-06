@@ -117,6 +117,11 @@
         MongoDB
       </td>
       <td align="center" height="108" width="108">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" title="mongoose" alt="mongoose" width="48" height="48"/>
+        <br />
+        Mongoose
+      </td>
+      <td align="center" height="108" width="108">
         <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" height="48" width="48" alt="REST logo"  />
         <br />
         REST
