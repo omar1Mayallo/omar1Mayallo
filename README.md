@@ -23,24 +23,9 @@
 <table align="center">
     <tr>
       <td align="center" height="108" width="108">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" width="48" alt="html5 logo"  />
-        <br />
-        HTML
-      </td>
-      <td align="center" height="108" width="108">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" width="48" alt="css3 logo"  />
-        <br />
-        CSS
-      </td>
-      <td align="center" height="108" width="108">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" width="48" alt="javascript logo"  />
         <br />
         Javascript
-      </td>
-      <td align="center" height="108" width="108">
-          <img src="https://github.com/get-icon/geticon/blob/master/icons/es6.svg" title="Python" alt="Python" width="48" height="48"/>
-          <br />
-          ES6
       </td>
       <td align="center" height="108" width="108">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" width="48" alt="typescript logo"  />
@@ -62,8 +47,6 @@
         <br />
         TailwindCss
       </td>
-    </tr>
-    <tr>
       <td align="center" height="108" width="108">
         <img src="https://avatars.githubusercontent.com/u/17580417?s=280&v=4" height="48" width="48" alt="bootstrap logo"  />
         <br />
@@ -77,7 +60,34 @@
       <td align="center" height="108" width="108">
         <img src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="48" width="48"/>
         <br />
-        Styled componants
+        Styled components
+      </td>
+      <td align="center" height="108" width="108">
+        <img src="https://raw.githubusercontent.com/emotion-js/emotion/main/emotion.png" height="48" width="48" alt="emotion styled logo"  />
+        <br />
+        Emotion Styled
+      </td>
+    </tr>
+    <tr>
+      <td align="center" height="108" width="108">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="48" width="48" alt="redux logo"  />
+        <br />
+        Redux
+      </td>
+      <td align="center" height="108" width="108">
+        <img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" height="60" width="80" alt="Zustand logo"  />
+        <br />
+        Zustand
+      </td>
+      <td align="center" height="108" width="108">
+        <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" alt="React-Query" width="55" height="48"/>
+        <br />
+        React-Query
+      </td>
+      <td align="center" height="108" width="108">
+        <img src="https://reactjsexample.com/content/images/2019/11/SWR.jpg"  alt="SWR" width="48" height="48"/>
+        <br />
+        SWR
       </td>
       <td align="center" height="108" width="108">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" width="48" alt="react logo"  />
@@ -89,62 +99,47 @@
         <br />
         Next
       </td>
-      <td align="center" height="108" width="108">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="48" width="48" alt="redux logo"  />
-        <br />
-        Redux
-      </td>
-      <td align="center" height="108" width="108">
+       <td align="center" height="108" width="108">
         <img src="https://github.com/get-icon/geticon/blob/master/icons/nodejs-icon.svg" title="Node.js" alt="Node.js" width="48" height="48"/>
         <br />
         Node
       </td>
       <td align="center" height="108" width="108">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="48" height="48"/>
-        <br />
-        Express
-      </td>
-    </tr>
-    <tr>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="48" height="48"/>
+          <br />
+          Express
+        </td>
        <td align="center" height="108" width="108">
         <img src="https://github.com/get-icon/geticon/blob/master/icons/mongodb-icon.svg" title="MongoDB" alt="MongoDB" width="48" height="48"/>
         <br />
         MongoDB
-      </td>
+        </td>
+    </tr>
+    <tr>
        <td align="center" height="108" width="108">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" width="52" alt="socketio logo"  />
-        <br />
-        Socket.Io
-      </td>
-      <td align="center" height="108" width="108">
-        <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" height="48" width="48" alt="REST logo"  />
-        <br />
-        REST
-      </td>
-      <td align="center" height="108" width="108">
-        <img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" height="48" width="48" alt="jest logo"  />
-        <br />
-        Jest
-      </td>
+          <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" height="48" width="48" alt="REST logo"  />
+          <br />
+          REST
+       </td>
        <td align="center" height="108" width="108">
           <img src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" title="Git" alt="Git" width="48" height="48"/>
           <br />
           Git
         </td>
-      <td align="center" height="108" width="108">
+        <td align="center" height="108" width="108">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" width="48" alt="github logo"  />
           <br />
           Github
         </td>
-     <td align="center" height="108" width="108">
-        <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="48" width="48" alt="VsCode logo"  />
-        <br />
-        VsCode
-      </td>
-       <td align="center" height="108" width="108">
-          <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" title="Git" alt="Git" width="48" height="48"/>
+        <td align="center" height="108" width="108">
+          <img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" height="48" width="48" alt="jest logo"  />
           <br />
-          Postman
+          Jest(Basics)
+        </td>
+        <td align="center" height="108" width="108">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" width="52" alt="socketio logo"  />
+          <br />
+          Socket.Io(Basics)
         </td>
       </tr>
 </table>
