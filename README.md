@@ -62,13 +62,13 @@
         <br />
         Styled components
       </td>
+    </tr>
+    <tr>
       <td align="center" height="108" width="108">
         <img src="https://raw.githubusercontent.com/emotion-js/emotion/main/emotion.png" height="48" width="48" alt="emotion styled logo"  />
         <br />
         Emotion Styled
       </td>
-    </tr>
-    <tr>
       <td align="center" height="108" width="108">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="48" width="48" alt="redux logo"  />
         <br />
@@ -104,23 +104,23 @@
         <br />
         Node
       </td>
+    </tr>
+    <tr>
       <td align="center" height="108" width="108">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="48" height="48"/>
-          <br />
-          Express
-        </td>
-       <td align="center" height="108" width="108">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="48" height="48"/>
+        <br />
+        Express
+      </td>
+      <td align="center" height="108" width="108">
         <img src="https://github.com/get-icon/geticon/blob/master/icons/mongodb-icon.svg" title="MongoDB" alt="MongoDB" width="48" height="48"/>
         <br />
         MongoDB
-        </td>
-    </tr>
-    <tr>
-       <td align="center" height="108" width="108">
-          <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" height="48" width="48" alt="REST logo"  />
-          <br />
-          REST
-       </td>
+      </td>
+      <td align="center" height="108" width="108">
+        <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" height="48" width="48" alt="REST logo"  />
+        <br />
+        REST
+      </td>
        <td align="center" height="108" width="108">
           <img src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" title="Git" alt="Git" width="48" height="48"/>
           <br />
