@@ -2,6 +2,9 @@
 
 <p>👋 Hello! I'm Omar, a passionate software engineer based in Egypt. I have a strong interest in web development and continuously strive to expand my knowledge and skills in this field. I'm always eager to explore new technologies, architectures, and best practices to deliver high-quality solutions.</p>
 
+
+<p>🌱 I’m currently learning : SQL & PostgreSQL, Vue</p>
+
 ###
 
 <div align="center">
