@@ -125,6 +125,16 @@
         Mongoose
       </td>
       <td align="center" height="108" width="108">
+          <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" height="48" width="48" alt="postgresql logo"  />
+          <br />
+          PostgreSQL
+        </td>
+        <td align="center" height="108" width="108">
+          <img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" height="48" width="48" alt="seqeulize logo"  />
+          <br />
+          Sequelize
+        </td>
+      <td align="center" height="108" width="108">
         <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" height="48" width="48" alt="REST logo"  />
         <br />
         REST
@@ -139,6 +149,7 @@
           <br />
           Github
         </td>
+      </tr>
         <td align="center" height="108" width="108">
           <img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" height="48" width="48" alt="jest logo"  />
           <br />
