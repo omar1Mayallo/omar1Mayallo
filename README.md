@@ -11,12 +11,17 @@
 - 📫 Reach me: [omar1.mayallo4@gmail.com](omar1.mayallo4@gmail.com)
 
 <div align="center">
-<i>Follow me:</i><br><br>
+  <i>Follow me:</i><br><br>
 
-<a href="https://www.linkedin.com/in/omar-mayallo-a5546a243/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.youtube.com/channel/UCaqPxDHDdjprqv8I9shZMig" target="_blank"><img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
-
+  <a href="https://www.linkedin.com/in/omar-mayallo-a5546a243/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  
+  <a href="https://www.youtube.com/channel/UCaqPxDHDdjprqv8I9shZMig" target="_blank">
+    <img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
 </div>
+
 
 
 ## 🛠 Technologies & Tools
