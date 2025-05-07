@@ -3,9 +3,9 @@
 
 ##  Hi There, I'm Omar <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"/>
 
-- 👨‍⚖️ A passionate software engineer based in **_Egypt_**
+- 👨‍⚖️ A passionate Software Engineer | FullStack Developer with +3 years of experience
 - 💻 I have a strong interest in web development and continuously strive to expand my knowledge and skills in this field
-- ✍️ I'm also writing a [Practical Blog](https://github.com/omar1Mayallo/Practical-Blogs), Feel free to check it out if you're interested in learning more
+- ✍️ I'm also Content Creator ([Youtube](https://www.youtube.com/@omar_mayallo)) & Technical Writer ([Medium](https://medium.com/@omar_mayallo)), ([Dev.to](https://dev.to/omar_mayallo))
 - 📫 Reach me: <a href="mailto:omar1.mayallo4@gmail.com">omar1.mayallo4@gmail.com</a>
 
 <div align="center">
@@ -15,8 +15,20 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   
-  <a href="https://www.youtube.com/channel/UCaqPxDHDdjprqv8I9shZMig" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
+  <a href="https://x.com/omar_mayallo" target="_blank">
+    <img src="https://img.shields.io/badge/X(Twitter)-%23000000.svg?&style=flat-square&logo=x&logoColor=white" alt="Twitter">
+  </a>
+  
+  <a href="https://dev.to/omar_mayallo" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-%230A0A0A.svg?&style=flat-square&logo=dev.to&logoColor=white" alt="Dev.to">
+  </a>
+  
+  <a href="https://medium.com/@omar_mayallo" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat-square&logo=medium&logoColor=white" alt="Medium">
+  </a>
+  
+  <a href="https://www.youtube.com/@omar_mayallo" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 </div>
 
